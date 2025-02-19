@@ -1,13 +1,9 @@
 # AAAI 2025 - *Yuan*: Yielding Unblemished Aesthetics through A Unified Network for Visual Imperfections Removal in Generated Images
 
 [![ArXiv](https://img.shields.io/badge/arXiv-2501.08505-red)](https://arxiv.org/abs/2501.08505)  
-
 [![Paper](https://img.shields.io/badge/PDF-Poster-blue)](https://github.com/YuZhenyuLindy/Yuan/blob/main/Poster.pdf)  
-
-[![PPT](https://img.shields.io/badge/PPT-PPT-orange)](https://github.com/YuZhenyuLindy/Yuan/blob/main/Presentation.pptx)  
-
-[![Watch Video](https://img.shields.io/badge/Video-red)](https://www.youtube.com/watch?v=XXXXX)  
-
+[![PPT](https://img.shields.io/badge/PPT-PPT-orange)](https://github.com/YuZhenyuLindy/Yuan/blob/main/PPT.pdf)  
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/gDCH2qcA00M)  
 
 Our paper **"*Yuan*: Yielding Unblemished Aesthetics through A Unified Network for Visual Imperfections Removal in Generated Images"** is available on [arXiv](https://arxiv.org/abs/2501.08505).  
 If you find this work useful, please consider citing it.
