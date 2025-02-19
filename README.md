@@ -8,7 +8,7 @@ Our paper **"*Yuan*: Yielding Unblemished Aesthetics through A Unified Network f
 If you find this work useful, please consider citing it.
 
 <p align="center">
-  <img src="Poster.png" width="800"/>
+  <img src="Poster.png" width="900"/>
 </p>
 
 ## Contact
