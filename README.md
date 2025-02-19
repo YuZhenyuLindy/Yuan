@@ -4,17 +4,16 @@
   <a href="https://arxiv.org/abs/2501.08505">
     <img src="https://img.shields.io/badge/arXiv-2501.08505-red" alt="ArXiv">
   </a>
-
   <a href="https://github.com/YuZhenyuLindy/Yuan/blob/main/Poster.pdf">
-    <img src="https://img.shields.io/badge/PDF-Poster-blue" alt="Paper PDF">
+    <img src="https://img.shields.io/badge/PDF-Poster-blue" alt="Poster">
   </a>
 
   <a href="https://github.com/YuZhenyuLindy/Yuan/blob/main/PPT.pdf">
-    <img src="https://img.shields.io/badge/PPT-PPT-orange" alt="PPT">
+    <img src="https://img.shields.io/badge/PDF-Slides-orange" alt="PPT">
   </a>
 
   <a href="https://youtu.be/gDCH2qcA00M">
-    <img src="https://img.shields.io/badge/YouTube-Video-red" alt="YouTube Video">
+    <img src="https://img.shields.io/badge/Video-YouTube-red" alt="YouTube Video">
   </a>
 </p>
 
