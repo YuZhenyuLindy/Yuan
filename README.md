@@ -2,8 +2,10 @@
 
 [![ArXiv](https://img.shields.io/badge/arXiv-2501.08505-red)](https://arxiv.org/abs/2501.08505)  
 
-[![Paper](https://img.shields.io/badge/PDF-View-blue)](https://github.com/YuZhenyuLindy/Yuan/blob/main/Poster.pdf)  
-<iframe src="https://github.com/YuZhenyuLindy/Yuan/blob/main/Poster.pdf" width="100%" height="600px"></iframe>
+[![Paper](https://img.shields.io/badge/PDF-Poster-View-blue)](https://github.com/YuZhenyuLindy/Yuan/blob/main/Poster.pdf)  
+<p align="center">
+  <img src="Poster.png" width="600"/>
+</p>
 
 Our paper **"*Yuan*: Yielding Unblemished Aesthetics through A Unified Network for Visual Imperfections Removal in Generated Images"** is available on [arXiv](https://arxiv.org/abs/2501.08505).  
 If you find this work useful, please consider citing it.
