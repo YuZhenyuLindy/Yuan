@@ -7,6 +7,7 @@
   [![YouTube](https://img.shields.io/badge/Video-YouTube-red)](https://youtu.be/gDCH2qcA00M)
 </span>
 
+
 Our paper **"*Yuan*: Yielding Unblemished Aesthetics through A Unified Network for Visual Imperfections Removal in Generated Images"** is available on [arXiv](https://arxiv.org/abs/2501.08505).  
 If you find this work useful, please consider citing it.
 
