@@ -19,9 +19,9 @@ For any questions, feel free to reach out:
 ## Citation
 If you use our work, please cite it as follows:
 ```bibtex
-@article{yuan2025,
-  author    = {Zhenyu Yu and Chee Seng Chan},
-  title     = {Yuan: Yielding Unblemished Aesthetics through A Unified Network for Visual Imperfections Removal in Generated Images},
-  journal   = {AAAI},
-  year      = {2025}
+@article{yu2025yuan,
+  title={Yuan: Yielding Unblemished Aesthetics Through A Unified Network for Visual Imperfections Removal in Generated Images},
+  author={Yu, Zhenyu and Chan, Chee Seng},
+  journal={AAAI},
+  year={2025}
 }
